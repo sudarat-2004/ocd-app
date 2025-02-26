@@ -78,7 +78,10 @@ export default function Navbar() {
                       กระบวนการวินิจฉัยระบบ องค์การภาครัฐ
                     </a>
                     <a className="dropdown-item" href="/bloghome2">
-                    การวินิจฉัยระบบองค์การภาครัฐ PMQA
+                      การวินิจฉัยระบบองค์การภาครัฐ PMQA
+                    </a>
+                    <a className="dropdown-item" href="/portfolio1">
+                      การดำเนินการเปลี่ยแปลง
                     </a>
                     <a className="dropdown-item" href="portfolio-4-col.html">
                       การแทรกแซงและการจัด กิจกรรมพัฒนาองค์การ ภาครัฐ
@@ -103,8 +106,8 @@ export default function Navbar() {
                     className="dropdown-menu dropdown-menu-right"
                     aria-labelledby="navbarDropdownBlog"
                   >
-                    <a className="dropdown-item" href="blog-home-1.html">
-                      การวิเคราะห์ข้อมูลขนาด ใหญ่ เพื่อการตัดสินใจเชิงนโยบาย
+                    <a className="dropdown-item" href="/ai">
+                      AI ตรวจวินิจฉัยโรคมะเร็งปอด
                     </a>
                     <a className="dropdown-item" href="blog-home-2.html">
                       Blog Home 2
