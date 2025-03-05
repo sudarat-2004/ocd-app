@@ -81,9 +81,9 @@ export default function Navbar() {
                       การวินิจฉัยระบบองค์การภาครัฐ PMQA
                     </a>
                     <a className="dropdown-item" href="/portfolio1">
-                      การดำเนินการเปลี่ยแปลง
+                      การดำเนินการเปลี่ยนแปลง
                     </a>
-                    <a className="dropdown-item" href="portfolio-4-col.html">
+                    <a className="dropdown-item" href="/portfolio2">
                       การแทรกแซงและการจัด กิจกรรมพัฒนาองค์การ ภาครัฐ
                     </a>
                     <a className="dropdown-item" href="portfolio-item.html">
