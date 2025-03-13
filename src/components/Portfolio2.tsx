@@ -36,15 +36,13 @@ export default function Portfolio2() {
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img
-                    className="card-img-top"
-                    src="images/p21.jpg"
-                    alt=""
-                  />
+                  <img className="card-img-top" src="images/p21.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="assets/organization_intervention/organization-intervention-1-41.pdf">การจัดการกิจกรรม</a>
+                    <a href="assets/organization_intervention/organization-intervention-1-41.pdf">
+                      การจัดการกิจกรรม
+                    </a>
                   </h4>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -62,10 +60,14 @@ export default function Portfolio2() {
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="assets/organization_intervention/organization-intervention-76-111.pdf">การมีส่วนร่วมของพนักงาน</a>
+                    <a href="assets/organization_intervention/organization-intervention-76-111.pdf">
+                      การมีส่วนร่วมของพนักงาน
+                    </a>
                   </h4>
                   <p className="card-text">
-                  การมีส่วนร่วมของพนักงานคือการได้รับรวมเป็นส่วนหนึ่งของทีมอย่างเต็มตัว มุ่งเน้นไปที่เป้าหมายที่ชัดเจน ได้รับความไว้วางใจและอำนาจ ได้รับการตอบรับเชิงบวกและสร้างสรรค์อย่างสม่ำเสมอ
+                    การมีส่วนร่วมของพนักงานคือการได้รับรวมเป็นส่วนหนึ่งของทีมอย่างเต็มตัว
+                    มุ่งเน้นไปที่เป้าหมายที่ชัดเจน ได้รับความไว้วางใจและอำนาจ
+                    ได้รับการตอบรับเชิงบวกและสร้างสรรค์อย่างสม่ำเสมอ
                   </p>
                 </div>
               </div>
@@ -73,18 +75,19 @@ export default function Portfolio2() {
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img
-                    className="card-img-top"
-                    src="images/p7.jpg"
-                    alt=""
-                  />
+                  <img className="card-img-top" src="images/p7.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="assets/organization_intervention/organization-intervention-112-142.pdf">กลยุทธ์การแข่งขันและการมีส่วน</a>
+                    <a href="assets/organization_intervention/organization-intervention-112-142.pdf">
+                      กลยุทธ์การแข่งขันและการมีส่วน
+                    </a>
                   </h4>
                   <p className="card-text">
-                  องค์กรต่างๆ จำเป็นต้องมีกลยุทธ์การแข่งขันที่แข็งแกร่งและผ่านการทดสอบมาแล้ว ซึ่งจะช่วยชี้นำการตัดสินใจและการจัดสรรทรัพยากร กลยุทธ์การแข่งขันจะกำหนดว่าองค์กรจะสร้างความได้เปรียบในการแข่งขันเหนือคู่แข่งได้อย่างไร
+                    องค์กรต่างๆ
+                    จำเป็นต้องมีกลยุทธ์การแข่งขันที่แข็งแกร่งและผ่านการทดสอบมาแล้ว
+                    ซึ่งจะช่วยชี้นำการตัดสินใจและการจัดสรรทรัพยากร
+                    กลยุทธ์การแข่งขันจะกำหนดว่าองค์กรจะสร้างความได้เปรียบในการแข่งขันเหนือคู่แข่งได้อย่างไร
                   </p>
                 </div>
               </div>
@@ -92,19 +95,18 @@ export default function Portfolio2() {
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img
-                    className="card-img-top"
-                    src="images/p588.jpg"
-                    alt=""
-                  />
+                  <img className="card-img-top" src="images/p588.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-1-32.pdf">การออกแบบงาน 
-</a>
+                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-1-32.pdf">
+                      การออกแบบงาน
+                    </a>
                   </h4>
                   <p className="card-text">
-                  ระบวนการกำหนดปริมาณงานที่ เหมาะสมสำหรับงานใดงานหนึ่ง ตำแหน่งใดตำแหน่งหนึ่ง โดยการออกแบบงานจะ สอดคล้องกับลักษณะของบุคคลหรือกลุ่มบุคคลที่ปฏิบัติงานในตำแหน่งงานนั้น
+                    ระบวนการกำหนดปริมาณงานที่ เหมาะสมสำหรับงานใดงานหนึ่ง
+                    ตำแหน่งใดตำแหน่งหนึ่ง โดยการออกแบบงานจะ
+                    สอดคล้องกับลักษณะของบุคคลหรือกลุ่มบุคคลที่ปฏิบัติงานในตำแหน่งงานนั้น
                   </p>
                 </div>
               </div>
@@ -112,19 +114,18 @@ export default function Portfolio2() {
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img
-                    className="card-img-top"
-                    src="images/p8.jpg"
-                    alt=""
-                  />
+                  <img className="card-img-top" src="images/p8.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-33-54.pdf">Coaching
-.</a>
+                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-33-54.pdf">
+                      Coaching .
+                    </a>
                   </h4>
                   <p className="card-text">
-                  การโค้ช (Coaching)"  คือกระบวนการทำงานร่วมกันระหว่างโค้ชซึ่งเป็นเพื่อนชวนคิด หรือปลดล๊อคบางอย่างในตัวผู้รับการโค้ช
+                    การโค้ช (Coaching)"
+                    คือกระบวนการทำงานร่วมกันระหว่างโค้ชซึ่งเป็นเพื่อนชวนคิด
+                    หรือปลดล๊อคบางอย่างในตัวผู้รับการโค้ช
                   </p>
                 </div>
               </div>
@@ -132,38 +133,38 @@ export default function Portfolio2() {
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img
-                    className="card-img-top"
-                    src="images/p10.jpg"
-                    alt=""
-                  />
+                  <img className="card-img-top" src="images/p10.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-55-77.pdf">การสร้างทีม</a>
+                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-55-77.pdf">
+                      การสร้างทีม
+                    </a>
                   </h4>
                   <p className="card-text">
-                  สร้างทีมงาน (Teamwork) ให้มีศักยภาพเพื่อการทำงานระบบทีมที่มีประสิทธิภาพ
+                    สร้างทีมงาน (Teamwork)
+                    ให้มีศักยภาพเพื่อการทำงานระบบทีมที่มีประสิทธิภาพ
                   </p>
                 </div>
               </div>
             </div>
-           
+
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img
-                    className="card-img-top"
-                    src="images/p11.jpg"
-                    alt=""
-                  />
+                  <img className="card-img-top" src="images/p11.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">
-                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-78-123.pdf">การเปลี่ยนวัฒนธรรม องค์กรเป็นกิจกรรมพัฒนาองค์กร</a>
+                    <a href="assets/Technostructural Intervention))/Technostructural Intervention-78-123.pdf">
+                      การเปลี่ยนวัฒนธรรม องค์กรเป็นกิจกรรมพัฒนาองค์กร
+                    </a>
                   </h4>
                   <p className="card-text">
-                  วัฒนธรรมองค์กรคือชิ้นส่วนสำคัญที่แฝงอยู่ในทุกส่วนขององค์กร ทั้งวิธีการคิด การสื่อสาร การตัดสินใจ และวิถีปฏิบัติในทุกขั้นตอนในทุกระดับขององค์กร หลายองค์กรเริ่มตระหนักและเล็งเห็นประโยชน์ของการสร้างการเปลี่ยนแปลงเพื่อให้วัฒนธรมองค์กรเกิดขึ้นในแบบที่ตั้งใจ
+                    วัฒนธรรมองค์กรคือชิ้นส่วนสำคัญที่แฝงอยู่ในทุกส่วนขององค์กร
+                    ทั้งวิธีการคิด การสื่อสาร การตัดสินใจ
+                    และวิถีปฏิบัติในทุกขั้นตอนในทุกระดับขององค์กร
+                    หลายองค์กรเริ่มตระหนักและเล็งเห็นประโยชน์ของการสร้างการเปลี่ยนแปลงเพื่อให้วัฒนธรมองค์กรเกิดขึ้นในแบบที่ตั้งใจ
                   </p>
                 </div>
               </div>
